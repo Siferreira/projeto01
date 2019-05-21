@@ -1,0 +1,51 @@
+#page #dashboard{
+    margin-top:160px;
+    min-height: 400px;
+    
+}
+#page #dashboard #menu-dashboard{
+    padding:30px 10px;
+    width: 15%;
+    font-size: 14px;
+    background: #333;
+    font-weight: bold;
+    min-height: 600px;
+    float: left;
+}
+#page #dashboard #menu-dashboard ul li ul{
+    margin:10px 0;
+}
+#page #dashboard #menu-dashboard ul li li a{
+    padding: 5px;
+    width: 100%;
+    display: block;
+    height: 15px;;
+}
+#page #dashboard #menu-dashboard ul li li a:hover{
+    background: #ccc;
+}
+#page #dashboard #content-dashboard{
+    padding:30px 10px;
+    width: 81%;
+    font-size: 14px;
+    background: #ccc;
+    font-weight: bold;
+    min-height: 550px;
+    float: right;
+}
+#page #dashboard #content-dashboard div{
+  
+    width: 100%;
+    margin-bottom: 20px;
+}
+#page #dashboard #content-dashboard div h2{
+    padding: 15px;
+    font-size: 20px;
+}
+#page #dashboard #content-dashboard div table{width: 100%;float: left;}
+#page #dashboard #content-dashboard div table tr td{
+
+    border: 1px solid #f00;
+    padding: 10px;
+    
+}

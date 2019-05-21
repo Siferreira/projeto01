@@ -199,6 +199,7 @@ figcaption{
     text-align: center;
     text-shadow: 0 0 15px #ccc;
 }
+
 /*---------------------------------Configurando a estrutura do rodapé*/
 #page footer{
     width:100%;
@@ -1001,7 +1002,7 @@ figcaption{
     #page header .row .container .col-right .menu .dropdown li ul{
         position: absolute;
         top: 0px;
-        left: 75px;
+        left: 55px;
         background: #fff;
         display: none;
     }
